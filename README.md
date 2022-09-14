@@ -28,3 +28,4 @@ converting word1 to word2
 sum of square,
 seasons,
 maximum number of words,
+basic calculator
