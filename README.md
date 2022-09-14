@@ -32,3 +32,4 @@ basic calculator,
 fizz buzz,
 college,
 smallerthan current number, 
+function delcher
