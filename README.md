@@ -35,3 +35,6 @@ smallerthan current number,
 function delcher,
 seasons,
 min num of jumps,
+valid palindrome,
+roman to integer,
+
