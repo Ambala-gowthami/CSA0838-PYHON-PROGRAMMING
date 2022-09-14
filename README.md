@@ -32,4 +32,6 @@ basic calculator,
 fizz buzz,
 college,
 smallerthan current number, 
-function delcher
+function delcher,
+seasons,
+min num of jumps,
