@@ -28,4 +28,7 @@ converting word1 to word2
 sum of square,
 seasons,
 maximum number of words,
-basic calculator
+basic calculator,
+fizz buzz,
+college,
+smallerthan current number, 
