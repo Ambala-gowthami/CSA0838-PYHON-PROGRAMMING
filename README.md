@@ -33,6 +33,8 @@ fizz buzz,
 college,
 smallerthan current number, 
 function delcher,
+sorted vowel string
+
 seasons,
 min num of jumps,
 valid palindrome,
