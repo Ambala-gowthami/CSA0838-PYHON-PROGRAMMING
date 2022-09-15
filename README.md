@@ -34,9 +34,16 @@ college,
 smallerthan current number, 
 function delcher,
 sorted vowel string
-
+shuffle,
 seasons,
 min num of jumps,
 valid palindrome,
 roman to integer,
 scramble string
+words and space,
+salary,
+reverse word,
+peak elements,
+triangular array,
+integers divisible by numbers,
+square numbers'
