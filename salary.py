@@ -1,12 +1,20 @@
-g=input("enter the Grade(A/B) : ")
-s = int(input("salary : $ "))
-if(g =='A' and s <= 10000):
-    print("Total salary : $ ",(s//7)+s)
-elif(g =='A' and s > 10000):
-    print("Total salary : $ ",(s//5)+s)
-elif(g =='B' and s <= 10000):
-    print("Total salary : $ ",(s//12)+s)
-elif(g =='B' and s > 10000):
-    print("Total salary : $ ",(s//10)+s)
+rade=input("enter the grade(A/B) :")
+salary= int(input("enter the salary :"))
+if (grade == 'A') and (salary>10000):
+    bonus= salary*(5/100)
+    print("bonus :",bonus)
+    print(" total salary is:", bonus+salary)
+elif (grade == 'B') and (salary>10000):
+    bonus= salary*(10/100)
+    print(" bonus :",bonus)
+    print("total salary is:",bonus+salary)
+elif (grade == 'A') and (salary<=10000):
+    bonus= salary*(7/100)
+    print("bonus :", bonus)
+    print(" total salary is:",bonus+salary)
+elif (grade == 'B') and (salary<=10000):
+    bonus=salary*(12/100)
+    print("bonus :",bonus)
+    print("total salary is:",bonus+salary)
 else:
     print("wrong input")
