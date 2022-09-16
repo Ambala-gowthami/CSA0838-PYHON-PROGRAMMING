@@ -46,4 +46,7 @@ reverse word,
 peak elements,
 triangular array,
 integers divisible by numbers,
-square numbers'
+square numbers,
+matrix,
+repeating characters
+
